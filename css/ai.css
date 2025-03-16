@@ -718,7 +718,7 @@
 }
 
 .marketers-username-box-name {
-    width: 91px;
+    max-width: 150px;
     height: 24px;
     font-family: "Poppins", serif;
     font-weight: 500;
